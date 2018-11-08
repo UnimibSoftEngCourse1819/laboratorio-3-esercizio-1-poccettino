@@ -1,0 +1,52 @@
+2018-11-08 09:41:49,510 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-08 09:43:57,331 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\pom.xml
+2018-11-08 09:44:00,417 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2018-11-08 09:44:00,714 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2018-11-08 09:44:10,950 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vogella.maven:quickstart:0.0.1-SNAPSHOT @ C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\pom.xml.
+2018-11-08 09:44:12,726 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2018-11-08 09:44:13,041 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2018-11-08 09:44:13,544 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2018-11-08 09:44:14,129 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quickstart/src/main/java
+2018-11-08 09:44:14,141 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quickstart/src/test/java
+2018-11-08 09:44:15,189 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2018-11-08 09:44:15,374 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-08 09:44:16,011 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:44:16,011 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:44:16,014 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:44:16,015 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
+2018-11-08 09:44:36,514 [Worker-9: Launching quickstart] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart
+2018-11-08 09:44:36,515 [Worker-9: Launching quickstart] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-11-08 09:48:20,002 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vogella.maven:quickstart:0.0.1-SNAPSHOT @ C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\pom.xml.
+2018-11-08 09:48:20,282 [Worker-12: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.pom
+2018-11-08 09:48:20,397 [Worker-12: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.pom
+2018-11-08 09:48:20,512 [Worker-12: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2018-11-08 09:48:20,615 [Worker-12: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2018-11-08 09:48:20,692 [Worker-12: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar
+2018-11-08 09:48:20,906 [Worker-12: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar
+2018-11-08 09:48:21,739 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:21,747 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:48:21,756 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:21,763 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
+2018-11-08 09:48:22,822 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar
+2018-11-08 09:48:22,863 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:22,863 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:48:22,874 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:22,883 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
+2018-11-08 09:48:22,982 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar
+2018-11-08 09:48:23,212 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.3.1
+2018-11-08 09:48:23,937 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:23,937 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:48:23,939 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:48:23,939 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
+2018-11-08 09:49:21,430 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:49:21,431 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:49:21,432 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:49:21,433 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
+2018-11-08 09:52:30,173 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:52:30,180 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:52:30,189 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:52:30,189 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
+2018-11-08 09:55:39,864 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:55:39,865 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\main\resources
+2018-11-08 09:55:39,866 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-08 09:55:39,867 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\bacci\Documents\Universita\IS\Laboratorio\LAB3\quickstart\src\test\resources
